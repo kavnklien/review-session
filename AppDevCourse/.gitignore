@@ -1,0 +1,8 @@
+# Ignore .NET build output folders
+bin/
+obj/
+
+# Ignore VS Code / Visual Studio environment settings
+.vscode/
+.vs/
+*.user
