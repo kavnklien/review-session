@@ -9,7 +9,7 @@ namespace AppDevCourse
         static void Main(string[] args)
         {
             // Create a list of strings
-            List<string> techStack = new List<string> { "C#", "ASP.NET", "Entity Framework" };
+            List<string> techStack = new List<string> { "C#", "ASP.NET", "Entity Framework!" };
 
             // Adding items
             techStack.Add("Azure DevOps");

@@ -1,0 +1,14 @@
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\bin\Debug\net10.0\AppDevCourse.exe
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\bin\Debug\net10.0\AppDevCourse.deps.json
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\bin\Debug\net10.0\AppDevCourse.runtimeconfig.json
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\bin\Debug\net10.0\AppDevCourse.dll
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\bin\Debug\net10.0\AppDevCourse.pdb
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\AppDevCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\AppDevCourse.AssemblyInfoInputs.cache
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\AppDevCourse.AssemblyInfo.cs
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\AppDevCourse.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\AppDevCourse.dll
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\refint\AppDevCourse.dll
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\AppDevCourse.pdb
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\AppDevCourse.genruntimeconfig.cache
+C:\Users\ADMIN2\Downloads\BSCS 2-5^^\review session\AppDevCOurse\obj\Debug\net10.0\ref\AppDevCourse.dll
